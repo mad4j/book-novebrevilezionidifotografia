@@ -1,5 +1,5 @@
-# sette brevi lezioni di fotografia
-
+# Sette brevi lezioni di fotografia
+L'importante è divertirsi e trovare il proprio stile.
 
 ## Lezione 1 - La regola dei terzi
 
