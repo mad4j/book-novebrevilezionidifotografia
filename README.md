@@ -3,7 +3,7 @@ L'importante è divertirsi e trovare il proprio stile.
 
 ## Lezione 1 - La regola dei terzi
 
-## Lezione 2 - Le linee guida
+## Lezione 2 - Seguire linee guida
 
 ![Lezione 2](Lezione2.jpg)
 
@@ -11,6 +11,9 @@ L'importante è divertirsi e trovare il proprio stile.
 Se la foto non è interessante significa che non ti sei avvicinato abbastanza. (trovare citazione)
 
 ## Lezione 4 - Incorniciare
+
+## Lezione 5 - Semplificare
+Meno cose ci sono, maggiore è l'impatto
 
 ## Lezione 6 - Rompere gli schemi
 Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elmenti di rottura rendono una foto terribilmente interessante da guardare.
