@@ -10,6 +10,8 @@ L'importante è divertirsi e trovare il proprio stile.
 ## Lezione 3 - Riempire il quadro
 Se la foto non è interessante significa che non ti sei avvicinato abbastanza. (trovare citazione)
 
+![Lezione 3](Lezione3.jpg)
+
 ## Lezione 4 - Incorniciare
 
 ## Lezione 5 - Semplificare
