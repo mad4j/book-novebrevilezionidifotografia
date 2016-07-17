@@ -6,11 +6,16 @@
 ## Lezione 2 - Le linee guida
 
 ## Lezione 3 - Riempire il quadro
+Se la foto non è interessante significa che non ti sei avvicinato abbastanza. (trovare citazione)
+
+## Lezione 4 - Inconiciare
+
+
 
 
 ## Riferimenti
 
-* [DPHOTO](http://www.dphoto.it/corso-fotografia/le-foto-di-steve-mccurry-per-capire-la-composizione-fotografica.html)
+* [9 Photo Composition Tips (feat. Steve McCurry)](https://www.youtube.com/watch?v=7ZVyNjKSr0M)
 * 
 
 
