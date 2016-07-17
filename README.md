@@ -5,12 +5,17 @@
 
 ## Lezione 2 - Le linee guida
 
+![Lezione 2](Lezione2.jpg)
+
 ## Lezione 3 - Riempire il quadro
 Se la foto non è interessante significa che non ti sei avvicinato abbastanza. (trovare citazione)
 
-## Lezione 4 - Inconiciare
+## Lezione 4 - Incorniciare
 
+## Lezione 6 - Rompere gli schemi
+Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elmenti di rottura rendono una foto terribilmente interessante da guardare.
 
+## Lezione 7 - Raccontare una storia
 
 
 ## Riferimenti
