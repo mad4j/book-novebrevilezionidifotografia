@@ -12,7 +12,8 @@ Se la foto non è interessante significa che non ti sei avvicinato abbastanza. (
 
 ![Lezione 3](Lezione3.jpg)
 
-## Lezione 4 - Incorniciare
+## Lezione 4 - Incorniciare gli elementi da evidenziare
+Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare elementi di interesse.
 
 ## Lezione 5 - Semplificare
 Meno cose ci sono, maggiore è l'impatto
