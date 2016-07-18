@@ -1,9 +1,9 @@
 # Sette brevi lezioni di fotografia
 L'importante è divertirsi e trovare il proprio stile.
 
-## Lezione 1 - La regola dei terzi
+## Lezione 1 - Comporre con la regola dei terzi
 
-## Lezione 2 - Seguire linee guida
+## Lezione 2 - Farsi guidare dalle linee di fuga
 
 ![Lezione 2](Lezione2.jpg)
 
