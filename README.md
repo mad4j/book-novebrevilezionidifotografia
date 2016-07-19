@@ -15,8 +15,8 @@ Se la foto non è interessante significa che non ti sei avvicinato abbastanza. (
 ## Lezione 4 - Incorniciare gli elementi da evidenziare
 Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare elementi di interesse.
 
-## Lezione 5 - Semplificare
-Meno cose ci sono, maggiore è l'impatto
+## Lezione 5 - Ridurre al minimo
+Semplificare. Meno cose ci sono, maggiore è l'impatto
 
 ## Lezione 6 - Rompere gli schemi
 Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elmenti di rottura rendono una foto terribilmente interessante da guardare.
