@@ -22,6 +22,7 @@ Semplificare. Meno cose ci sono, maggiore è l'impatto
 La fotografia è una cosa semplice. A condizione di avere qualcosa da dire – Mario GIACOMELLI
 
 ## Lezione 6 - Rompere gli schemi
+Non ci sono regole per una buona foto, ci sono solo buone fotografie. Ansel Adams
 Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elmenti di rottura rendono una foto terribilmente interessante da guardare.
 
 ## Lezione 7 - Raccontare una storia
