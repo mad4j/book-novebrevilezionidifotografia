@@ -1,4 +1,6 @@
 # Sette brevi lezioni di fotografia
+
+## Introduzione
 L'importante è divertirsi e trovare il proprio stile.
 
 ## Lezione 1 - Comporre con la regola dei terzi
