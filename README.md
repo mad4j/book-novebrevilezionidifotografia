@@ -1,6 +1,7 @@
 # Sette brevi lezioni di fotografia
 
 ## Introduzione
+Ho fatto delle foto. Ho fotografato invece di parlare. Ho fotografato per non dimenticare. Per non smettere di guardare. Daniel Pennac
 L'importante è divertirsi e trovare il proprio stile.
 
 ## Lezione 1 - Comporre con la regola dei terzi
