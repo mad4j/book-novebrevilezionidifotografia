@@ -27,6 +27,7 @@ Non ci sono regole per una buona foto, ci sono solo buone fotografie. Ansel Adam
 Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elmenti di rottura rendono una foto terribilmente interessante da guardare.
 
 ## Lezione 7 - Raccontare una storia
+Un buon fotografo è una persona che comunica un fatto, tocca il cuore, fa diventare l’osservatore una persona diversa. Irving Penn
 
 
 ## Riferimenti
