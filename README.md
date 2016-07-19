@@ -8,6 +8,7 @@ L'importante è divertirsi e trovare il proprio stile.
 Penso che la composizione in fotografia sia molto simile al ritmo in musica. Se si dispone di grande ritmo si ha anche un grande senso della composizione. La composizione è un’eredità classica. Cioè, come le cose si collocano nell’ambiente, il loro posto e la loro grandezza, le relazioni tra gli oggetti e le persone, tra il fotografo e il suo soggetto, questi sono tutti elementi di un sentire classico. Rodney Smith
 
 ## Lezione 2 - Farsi guidare dalle linee di fuga
+Spesso la composizione è davvero il mezzo migliore che un fotografo ha a disposizione per mostrare la complessità della vita; la struttura di un’immagine può suggerire la forma che diviene bellezza. Robert Adams
 
 ![Lezione 2](Lezione2.jpg)
 
