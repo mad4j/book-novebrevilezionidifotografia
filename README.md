@@ -29,6 +29,7 @@ Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a ve
 
 ## Lezione 7 - Raccontare una storia
 Un buon fotografo è una persona che comunica un fatto, tocca il cuore, fa diventare l’osservatore una persona diversa. Irving Penn
+Se una foto è buona racconta molte storie diverse. Josef Koudelka
 
 
 ## Riferimenti
