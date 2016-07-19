@@ -10,7 +10,7 @@ L'importante è divertirsi e trovare il proprio stile.
 ![Lezione 2](Lezione2.jpg)
 
 ## Lezione 3 - Riempire il quadro
-Se la foto non è interessante significa che non ti sei avvicinato abbastanza. (trovare citazione)
+“Se la foto non ti è venuta bene, vuol dire che non ti sei avvicinato abbastanza” – Robert CAPA
 
 ![Lezione 3](Lezione3.jpg)
 
