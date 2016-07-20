@@ -22,10 +22,14 @@ Se la foto non è buona, vuol dire che non eri abbastanza vicino. Robert Capa
 ## Lezione 4 - Incorniciare per evidenziare
 Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare elementi di interesse.
 
+![Lezione 4](Lezione4.jpg)
+
 ## Lezione 5 - Ridurre al minimo
 Semplificare. Meno cose ci sono, maggiore è l'impatto
 La fotografia è una cosa semplice. A condizione di avere qualcosa da dire – Mario GIACOMELLI
 La cosa più difficile in fotografia è rimanere semplici. Anne Geddes
+
+![Lezione 5](Lezione5.jpg)
 
 ## Lezione 6 - Rompere gli schemi
 Non ci sono regole per una buona foto, ci sono solo buone fotografie. Ansel Adams
