@@ -26,7 +26,7 @@ Se la foto non è buona, vuol dire che non eri abbastanza vicino. - Robert Capa
 ![Lezione 3](Lezione3.jpg)
 
 ## Lezione 4 - Incorniciare per evidenziare
-Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare elementi di interesse.
+Usare elementi della scena, come finestre, porte, specchi, per sottolineare il soggetto dell'immagine.
 
 ![Lezione 4](Lezione4.jpg)
 
