@@ -27,7 +27,8 @@ Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare 
 
 ## Lezione 5 - Ridurre al minimo
 `
-La cosa più difficile in fotografia è rimanere semplici. Anne Geddes
+La cosa più difficile in fotografia è rimanere semplici. 
+Anne Geddes
 `
 
 Semplificare. Meno cose ci sono, maggiore è l'impatto
@@ -35,8 +36,12 @@ Semplificare. Meno cose ci sono, maggiore è l'impatto
 ![Lezione 5](Lezione5.jpg)
 
 ## Lezione 6 - Rompere gli schemi
-Non ci sono regole per una buona foto, ci sono solo buone fotografie. Ansel Adams
-Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elmenti di rottura rendono una foto terribilmente interessante da guardare.
+`
+Non ci sono regole per una buona foto, ci sono solo buone fotografie. 
+Ansel Adams
+`
+
+Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elementi di rottura rendono una foto terribilmente interessante da guardare.
 
 ![Lezione 6](Lezione6.jpg)
 
