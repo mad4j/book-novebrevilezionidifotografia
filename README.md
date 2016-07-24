@@ -15,7 +15,10 @@ Spesso la composizione è davvero il mezzo migliore che un fotografo ha a dispos
 ![Lezione 2](Lezione2.jpg)
 
 ## Lezione 3 - Riempire il quadro
-Se la foto non è buona, vuol dire che non eri abbastanza vicino. Robert Capa
+`
+Se la foto non è buona, vuol dire che non eri abbastanza vicino. 
+Robert Capa
+`
 
 ![Lezione 3](Lezione3.jpg)
 
@@ -31,7 +34,7 @@ La cosa più difficile in fotografia è rimanere semplici.
 Anne Geddes
 `
 
-Semplificare. Meno cose ci sono, maggiore è l'impatto
+Meno cose ci sono, maggiore è l'impatto
 
 ![Lezione 5](Lezione5.jpg)
 
