@@ -26,15 +26,19 @@ Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare 
 ![Lezione 4](Lezione4.jpg)
 
 ## Lezione 5 - Ridurre al minimo
-Semplificare. Meno cose ci sono, maggiore è l'impatto
-La fotografia è una cosa semplice. A condizione di avere qualcosa da dire – Mario GIACOMELLI
+`
 La cosa più difficile in fotografia è rimanere semplici. Anne Geddes
+`
+
+Semplificare. Meno cose ci sono, maggiore è l'impatto
 
 ![Lezione 5](Lezione5.jpg)
 
 ## Lezione 6 - Rompere gli schemi
 Non ci sono regole per una buona foto, ci sono solo buone fotografie. Ansel Adams
 Le pose bilanciate, le ripetizioni, la simmetria rendono una foto piacevole a vedersi, ma gli elmenti di rottura rendono una foto terribilmente interessante da guardare.
+
+![Lezione 6](Lezione6.jpg)
 
 ## Lezione 7 - Raccontare una storia
 Un buon fotografo è una persona che comunica un fatto, tocca il cuore, fa diventare l’osservatore una persona diversa. Irving Penn
