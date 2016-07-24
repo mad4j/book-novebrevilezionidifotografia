@@ -5,12 +5,7 @@
 La macchina fotografica può rivelare i segreti che l’occhio nudo o la mente non colgono, sparisce tutto tranne quello che viene messo a fuoco con l’obiettivo. La fotografia è un esercizio d’osservazione. - Isabel Allende
 `
 
-L'importante è divertirsi e trovare il proprio stile.
-
 ## Lezione 1 - Comporre con la regola dei terzi
-
-`Penso che la composizione in fotografia sia molto simile al ritmo in musica. - Rodney Smith
-`
 
 Pensare idealmente a due linee verticali e due orizontali che dividono l'immagine in parti uguali. Poi sistemare il soggetto ad un incrocio o lungo una queste linee.
 
