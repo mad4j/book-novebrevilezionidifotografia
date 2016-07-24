@@ -5,7 +5,12 @@ Ho fatto delle foto. Ho fotografato invece di parlare. Ho fotografato per non di
 L'importante è divertirsi e trovare il proprio stile.
 
 ## Lezione 1 - Comporre con la regola dei terzi
-"Penso che la composizione in fotografia sia molto simile al ritmo in musica." - Rodney Smith
+
+`Penso che la composizione in fotografia sia molto simile al ritmo in musica.
+Rodney Smith
+`
+
+Pensare idealmente a due linee verticali e due orizontali che dividono l'immagine in parti uguali. Poi sistemare il soggetto all'incrocio o lungo queste linee.
 
 ![Lezione 1](Lezione1.jpg)
 
