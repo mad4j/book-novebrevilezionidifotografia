@@ -1,7 +1,10 @@
 # Sette brevi lezioni di fotografia
 
 ## Introduzione
-Ho fatto delle foto. Ho fotografato invece di parlare. Ho fotografato per non dimenticare. Per non smettere di guardare. Daniel Pennac
+`
+La macchina fotografica può rivelare i segreti che l’occhio nudo o la mente non colgono, sparisce tutto tranne quello che viene messo a fuoco con l’obiettivo. La fotografia è un esercizio d’osservazione. - Isabel Allende
+`
+
 L'importante è divertirsi e trovare il proprio stile.
 
 ## Lezione 1 - Comporre con la regola dei terzi
