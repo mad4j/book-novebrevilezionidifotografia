@@ -15,7 +15,7 @@ Pensare idealmente a due linee verticali e due orizontali che dividono l'immagin
 ![Lezione 1](Lezione1.jpg)
 
 ## Lezione 2 - Farsi guidare dalle linee di fuga
-Spesso la composizione è davvero il mezzo migliore che un fotografo ha a disposizione per mostrare la complessità della vita; la struttura di un’immagine può suggerire la forma che diviene bellezza. Robert Adams
+Sfruttare le linee continue presenti nella scena per guidare l'osservatore dentro l'immagine.
 
 ![Lezione 2](Lezione2.jpg)
 
@@ -29,8 +29,7 @@ Robert Capa
 
 ## Lezione 4 - Incorniciare per evidenziare
 Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare elementi di interesse.
-“The picture that you took with your camera is the imagination you want to create with reality.”
-— Scott Lorenzo
+
 ![Lezione 4](Lezione4.jpg)
 
 ## Lezione 5 - Ridurre al minimo
