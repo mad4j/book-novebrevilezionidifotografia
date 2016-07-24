@@ -21,7 +21,8 @@ Se la foto non è buona, vuol dire che non eri abbastanza vicino. Robert Capa
 
 ## Lezione 4 - Incorniciare per evidenziare
 Usare cornici naturali (come finestre, finestre, specchi, ...) per sottolineare elementi di interesse.
-
+“The picture that you took with your camera is the imagination you want to create with reality.”
+— Scott Lorenzo
 ![Lezione 4](Lezione4.jpg)
 
 ## Lezione 5 - Ridurre al minimo
