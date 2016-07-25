@@ -1,9 +1,7 @@
 # Sette brevi lezioni di fotografia
 
 ## Introduzione
-`
-La macchina fotografica può rivelare i segreti che l’occhio nudo o la mente non colgono, sparisce tutto tranne quello che viene messo a fuoco con l’obiettivo. La fotografia è un esercizio d’osservazione. - Isabel Allende
-`
+`La macchina fotografica può rivelare i segreti che l’occhio nudo o la mente non colgono, sparisce tutto tranne quello che viene messo a fuoco con l’obiettivo. La fotografia è un esercizio d’osservazione. - Isabel Allende`
 
 ## Lezione 1 - Comporre con la regola dei terzi
 
@@ -23,7 +21,7 @@ Se la foto non è buona, vuol dire che non eri abbastanza vicino. - Robert Capa
 
 ![Lezione 3](Lezione3.jpg)
 
-## Lezione 4 - Incorniciare per evidenziare
+## Lezione 4 - Metttere in evidendenza
 Usare elementi della scena, come finestre, porte, specchi, per sottolineare il soggetto dell'immagine.
 
 ![Lezione 4](Lezione4.jpg)
