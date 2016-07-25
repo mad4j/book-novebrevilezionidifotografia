@@ -16,7 +16,7 @@ Sfruttare le linee continue presenti nella scena per guidare l'osservatore dentr
 
 ![Lezione 2](Lezione2.jpg)
 
-## Lezione 3 - Riempire il quadro
+## Lezione 3 - Riempire l'inquadratura
 `
 Se la foto non è buona, vuol dire che non eri abbastanza vicino. - Robert Capa
 `
