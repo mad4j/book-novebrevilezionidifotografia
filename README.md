@@ -36,7 +36,7 @@ La cosa più difficile in fotografia è rimanere semplici. - Anne Geddes
 
 ## Lezione 6 - Introdurre il fattore umano
 
-## Lezione 8 - Cogliere l'attimo
+## Lezione 7 - Cogliere l'attimo
 
 ## Lezione 8 - Rompere gli schemi
 `
