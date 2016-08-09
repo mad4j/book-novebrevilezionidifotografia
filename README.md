@@ -1,4 +1,4 @@
-# Sette brevi lezioni di fotografia
+# Nove brevi lezioni di fotografia
 
 ## Introduzione
 `La macchina fotografica può rivelare i segreti che l’occhio nudo o la mente non colgono, sparisce tutto tranne quello che viene messo a fuoco con l’obiettivo. La fotografia è un esercizio d’osservazione. - Isabel Allende`
@@ -21,7 +21,7 @@ Se la foto non è buona, vuol dire che non eri abbastanza vicino. - Robert Capa
 
 ![Lezione 3](Lezione3.jpg)
 
-## Lezione 4 - Metttere in evidendenza
+## Lezione 4 - Mettere in evidendenza
 Usare elementi della scena, come finestre, porte, specchi, per sottolineare il soggetto dell'immagine.
 
 ![Lezione 4](Lezione4.jpg)
@@ -33,22 +33,24 @@ La cosa più difficile in fotografia è rimanere semplici. - Anne Geddes
 
 ![Lezione 5](Lezione5.jpg)
 
-## Lezione 6 - Rompere gli schemi
+
+## Lezione 6 - Introdurre il fattore umano
+
+## Lezione 8 - Cogliere l'attimo
+
+## Lezione 8 - Rompere gli schemi
 `
 Non ci sono regole per una buona foto, ci sono solo buone fotografie. - Ansel Adams
 `
 
 ![Lezione 6](Lezione6.jpg)
 
-## Lezione 7 - Raccontare una storia
+## Lezione 9 - Raccontare una storia
 `
 Se una foto è buona racconta molte storie diverse.  - Josef Koudelka
 `
 
 ![Lezione 7](Lezione7.jpg)
 
-Introdurre il fattore umano
-
-Cogliere l'attimo
 
 
