@@ -46,3 +46,9 @@ Se una foto è buona racconta molte storie diverse.  - Josef Koudelka
 `
 
 ![Lezione 7](Lezione7.jpg)
+
+Introdurre il fattore umano
+
+Cogliere l'attimo
+
+
