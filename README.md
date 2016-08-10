@@ -5,6 +5,7 @@
 
 `Una macchina fotografica non ha mai creato una grande immagine, come una macchina da scrivere non ha mai creato un grande romanzo. - Peter Adams`
 
+`Tu non fai una fotografia solo con la macchina fotografica. Tu metti nella fotografia tutte le immagini che hai visto, i libri che hai letto, la musica che hai sentito e le persone che hai amato. - Ansel Adams`
 
 ## Lezione 1 - Comporre con la regola dei terzi
 
