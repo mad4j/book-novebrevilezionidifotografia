@@ -41,12 +41,7 @@ La cosa più difficile in fotografia è rimanere semplici. - Anne Geddes
 ![Lezione 6](Lezione6.jpg)
 
 ## Lezione 7 - Cogliere l'attimo
-`
-A volte c’è un’unica immagine la cui struttura compositiva ha un tale vigore e una tale ricchezza e il cui contenuto irradia a tal punto al di fuori di essa che questa singola immagine è in sé un’intera narrazione. - Henri Cartier Bresson
-`
-`
-Non è la mera fotografia che mi interessa. Quel che voglio è catturare quel minuto, parte della realtà. - Henri Cartier-Bresson
-`
+`Le fotografie possono raggiungere l'eternità attraverso il momento. - Henri Cartier-Bresson`
 ![Lezione 7](Lezione7.jpg)
 
 
