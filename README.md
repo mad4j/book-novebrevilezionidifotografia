@@ -36,21 +36,25 @@ La cosa più difficile in fotografia è rimanere semplici. - Anne Geddes
 
 ## Lezione 6 - Introdurre il fattore umano
 
+![Lezione 6](Lezione6.jpg)
+
 ## Lezione 7 - Cogliere l'attimo
+
+![Lezione 7](Lezione7.jpg)
 
 ## Lezione 8 - Rompere gli schemi
 `
 Non ci sono regole per una buona foto, ci sono solo buone fotografie. - Ansel Adams
 `
 
-![Lezione 6](Lezione6.jpg)
+![Lezione 8](Lezione8.jpg)
 
 ## Lezione 9 - Raccontare una storia
 `
 Se una foto è buona racconta molte storie diverse.  - Josef Koudelka
 `
 
-![Lezione 7](Lezione7.jpg)
+![Lezione 9](Lezione9.jpg)
 
 
 
