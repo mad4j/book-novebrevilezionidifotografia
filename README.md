@@ -13,7 +13,7 @@ Pensare idealmente a due linee verticali e due orizontali che dividono l'immagin
 
 ![Lezione 1](Lezione1.jpg)
 
-## Lezione 2 - Farsi guidare dalle linee di fuga
+## Lezione 2 - Lasciarsi guidare dalle linee di fuga
 Sfruttare le linee continue presenti nella scena per guidare l'osservatore dentro l'immagine.
 
 ![Lezione 2](Lezione2.jpg)
