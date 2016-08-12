@@ -18,9 +18,7 @@ Sfruttare le linee continue presenti nella scena per guidare l'osservatore dentr
 ![Lezione 2](Lezione2.jpg)
 
 ## Lezione 3 - Riempire l'inquadratura
-`
-Se la foto non è buona, vuol dire che non eri abbastanza vicino. - Robert Capa
-`
+`Se la foto non è buona, vuol dire che non eri abbastanza vicino. - Robert Capa`
 
 ![Lezione 3](Lezione3.jpg)
 
@@ -30,33 +28,31 @@ Usare elementi della scena, come finestre, porte, specchi, per sottolineare il s
 ![Lezione 4](Lezione4.jpg)
 
 ## Lezione 5 - Ridurre al minimo
-`
-La cosa più difficile in fotografia è rimanere semplici. - Anne Geddes
-`
+`La cosa più difficile in fotografia è rimanere semplici. - Anne Geddes`
 
 ![Lezione 5](Lezione5.jpg)
 
 
 ## Lezione 6 - Introdurre il fattore umano
+Inserire una persona nell'inquadratura permette di meglio
 
 ![Lezione 6](Lezione6.jpg)
 
+
 ## Lezione 7 - Cogliere l'attimo
 `Le fotografie possono raggiungere l'eternità attraverso il momento. - Henri Cartier-Bresson`
+
 ![Lezione 7](Lezione7.jpg)
 
 
 ## Lezione 8 - Rompere gli schemi
-`
-Non ci sono regole per una buona foto, ci sono solo buone fotografie. - Ansel Adams
-`
+`Non ci sono regole per una buona foto, ci sono solo buone fotografie. - Ansel Adams`
 
 ![Lezione 8](Lezione8.jpg)
 
+
 ## Lezione 9 - Raccontare una storia
-`
-Se una foto è buona racconta molte storie diverse.  - Josef Koudelka
-`
+`Se una foto è buona racconta molte storie diverse.  - Josef Koudelka`
 
 ![Lezione 9](Lezione9.jpg)
 
