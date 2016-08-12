@@ -1,7 +1,6 @@
 # Nove brevi lezioni di fotografia
 
 ## Introduzione
-`La macchina fotografica può rivelare i segreti che l’occhio nudo o la mente non colgono, sparisce tutto tranne quello che viene messo a fuoco con l’obiettivo. La fotografia è un esercizio d’osservazione. - Isabel Allende`
 
 `Una macchina fotografica non ha mai creato una grande immagine, come una macchina da scrivere non ha mai creato un grande romanzo. - Peter Adams`
 
