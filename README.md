@@ -39,6 +39,9 @@ Inserire una persona nell'inquadratura permette di meglio
 ![Lezione 6](Lezione6.jpg)
 
 
+## Lezione X - Ricercare i colori
+L'accostamento dei colori rende la foto più interessante. Due colori complementari aumentano il senso di contrasto, mentre due colori contigui il senso di armonia.
+
 ## Lezione 7 - Cogliere l'attimo
 `Le fotografie possono raggiungere l'eternità attraverso il momento. - Henri Cartier-Bresson`
 
