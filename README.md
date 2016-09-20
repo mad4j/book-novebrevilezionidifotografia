@@ -27,6 +27,11 @@ Usare elementi della scena, come finestre, porte, specchi, per sottolineare il s
 
 ![Lezione 4](Lezione4.jpg)
 
+
+## Lezione X - Ricercare il giusto abbinamento
+Un giusto accostamento dei colori può rendere la foto molto più interessante. Se in una foto predominano due colori complementari allora viene accentuato il senso di contrasto, mentre se predominao due colori contigui allora aumentano il senso di armonia.
+
+
 ## Lezione 5 - Ridurre al minimo
 `La cosa più difficile in fotografia è rimanere semplici. - Anne Geddes`
 
@@ -38,9 +43,6 @@ Inserire una persona nell'inquadratura permette di meglio
 
 ![Lezione 6](Lezione6.jpg)
 
-
-## Lezione X - Ricercare i colori
-L'accostamento dei colori rende la foto più interessante. Due colori complementari aumentano il senso di contrasto, mentre due colori contigui il senso di armonia.
 
 ## Lezione 7 - Cogliere l'attimo
 `Le fotografie possono raggiungere l'eternità attraverso il momento. - Henri Cartier-Bresson`
