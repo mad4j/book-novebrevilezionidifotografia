@@ -1,5 +1,7 @@
 # Nove brevi lezioni di fotografia
 
+![Cover](icons.png)
+
 ## Introduzione
 
 `Una macchina fotografica non ha mai creato una grande immagine, come una macchina da scrivere non ha mai creato un grande romanzo. - Peter Adams`
