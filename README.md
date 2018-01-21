@@ -14,6 +14,10 @@
 
 `Dieci fotografi di fronte allo stesso soggetto producono dieci immagini diverse, perché, se è vero che la fotografia traduce il reale, esso si rivela secondo l’occhio di chi guarda. Gisele Freund`
 
+`Ci sono due persone in ogni foto: il fotografo e l’osservatore. Ansel Adams`
+
+Quando faccio una fotografia non ragiono: anche se ti posso concedere che ho ragionato prima. Pepi Merisio
+
 ## Lezione 1 - Comporre con la regola dei terzi
 
 Pensare idealmente a due linee verticali e due orizontali che dividono l'immagine in parti uguali. Poi sistemare il soggetto ad un incrocio o lungo una queste linee.
