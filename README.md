@@ -8,6 +8,12 @@
 
 `Tu non fai una fotografia solo con la macchina fotografica. Tu metti nella fotografia tutte le immagini che hai visto, i libri che hai letto, la musica che hai sentito e le persone che hai amato. - Ansel Adams`
 
+`Il desiderio di scoprire, la voglia di emozionare, il gusto di catturare, tre concetti che riassumono l’arte della fotografia. Helmut Newton`
+
+`Ho fatto delle foto. Ho fotografato invece di parlare. Ho fotografato per non dimenticare. Per non smettere di guardare. Daniel Pennac`
+
+`Dieci fotografi di fronte allo stesso soggetto producono dieci immagini diverse, perché, se è vero che la fotografia traduce il reale, esso si rivela secondo l’occhio di chi guarda. Gisele Freund`
+
 ## Lezione 1 - Comporre con la regola dei terzi
 
 Pensare idealmente a due linee verticali e due orizontali che dividono l'immagine in parti uguali. Poi sistemare il soggetto ad un incrocio o lungo una queste linee.
